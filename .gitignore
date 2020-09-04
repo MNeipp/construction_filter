@@ -1,0 +1,10 @@
+companies_filtered.csv
+companies.csv
+companies.json
+companies2.json
+/build
+/dist
+
+notes.txt
+__pycache__/filter.cpython-38.pyc
+filter.spec
